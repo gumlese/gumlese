@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gumlese
+- 👀 I’m interested in data science, time series forecasting, risk identification, economic modelling
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on time series forecasting (that's where I can contribute most at least!)
